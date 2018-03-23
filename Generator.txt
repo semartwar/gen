@@ -1,0 +1,6 @@
+1. Распарсить ссылки из файла https://welcome2fly.ru/city_to_city.xml
+2. Перейти по ссылке и взять значения полей заголовка h2
+3. В файле template.cvs заменить FirstCity на первый город, SecondCity на второй город, а значение ссылки #WUrl на путь до страницы
+(Например /aviabilety/iz-ekaterinburga-v-krasnoyarsk/)
+4. Сохранить файл с именем FirstCity - SecondCity
+ 
